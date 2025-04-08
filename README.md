@@ -72,22 +72,7 @@ markdown-to-html-frontend/
 
 
 
-## ✍️ Example
 
-If you type:
-
-```
-## Hello Sooraj
-
-This is *italic* and this is **bold**.
-
-- List item 1
-- List item 2
-```
-
-The right side will show a nicely rendered version with proper headings, emphasis, and list.
-
----
 
 ## 🔮 Future Ideas
 
